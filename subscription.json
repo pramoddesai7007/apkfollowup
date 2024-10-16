@@ -1,0 +1,32 @@
+[
+  {
+    "email": "javed.absoft@gmail.com",
+    "subscriptionStartDate": "2024-07-19T07:45:31.445Z",
+    "subscriptionEndDate": "2025-07-19T07:45:31.445Z",
+    "status": "subscribed"
+  },
+  {
+    "email": "db@gmail.com",
+    "subscriptionStartDate": "2024-07-22T09:28:11.148Z",
+    "subscriptionEndDate": "2025-07-22T09:28:11.148Z",
+    "status": "subscribed"
+  },
+  {
+    "email": "msdhoni@gmail.com",
+    "subscriptionStartDate": "2024-07-27T06:10:53.978Z",
+    "subscriptionEndDate": "2025-07-27T06:10:53.978Z",
+    "status": "subscribed"
+  },
+  {
+    "email": "github@gmail.com",
+    "subscriptionStartDate": "2024-07-29T07:33:18.231Z",
+    "subscriptionEndDate": "2025-07-29T07:33:18.231Z",
+    "status": "subscribed"
+  },
+  {
+    "email": "vant@gmail.com",
+    "subscriptionStartDate": "2024-07-29T07:36:50.670Z",
+    "subscriptionEndDate": "2025-07-29T07:36:50.670Z",
+    "status": "subscribed"
+  }
+]
